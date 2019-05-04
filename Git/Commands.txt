@@ -1,0 +1,10 @@
+git status
+git log
+git log [sciezka do pliku/folderu]
+
+git add [sciezka do pliku/folderu]
+git commit -m "nazwa commitu"
+git push
+
+git rm [sciezka]
+git rm -r [sciezka]
