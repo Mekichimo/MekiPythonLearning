@@ -8,3 +8,5 @@ git push
 
 git rm [sciezka]
 git rm -r [sciezka]
+
+git pull --rebase - sciagasz commity z serwera do lokalnego repozytorium
