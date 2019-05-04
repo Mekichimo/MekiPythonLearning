@@ -1,0 +1,22 @@
+cat [nazwa_pliku] - wypisuje plik w konsoli
+ls - lista plikow w katalogu
+cd [nazwa_katalogu] - przejscie do katalogu o nazwie nazwa_katalogu
+	. - obecny katalog
+	.. - nadrzedny katalog
+
+
+mkdir [nazwa_katalogu] - tworzysz folder
+touch [nazwa_pliku] - tworzysz pusty plik
+mv [stara_nazwa_pliku] [nowa_nazwa_pliku] - zmien nazwe pliku/folderu
+cp [stary_plik] [kopia_pliku] - robisz kopie pliku
+cp -r [stary_plik] [kopia_pliku] - robisz kopie folderu razem z wszystkim w srodku
+
+rm [nazwa_pliku] - usuwasz plik
+rm -r [nazwa_pliku] - usun katalog z wszystkim w srodku
+rmdir [nazwa_katalogu] - usuwasz PUSTY katalog
+
+find -iname nazwa_pliku - znajduje sciezke do pliku
+find -iname '*czesc_nazwy_pliku*' - znajduje sciezke do pliku
+
+		
+

@@ -1,0 +1,16 @@
+1) w katalogu test, w podkatalogu A usun wszystkie pliki ktore zawieraja slowo kupa
+2) w katalogu test, w podkatalogu B usun wszystkie pliki ktore zaczynaja sie od slowa kupa
+3) w katalogu test, w podkatalogu C usun wszystkie pliki ktore koncza sie kupa
+
+4) w katalogu test, w podkatalogu D utworz drzewo folderow:
+	Programy
+		Fajne
+			Smieszne
+		Przydatne
+			Tekstowe
+			Graficzne
+		Glupie
+			Smieszne
+			Niesmieszne
+
+5) w katalogu test, w podkatalogu D, w podkatalogu Programy, w podkatalogu Fajne, w podkatalogu Smieszne utworz pusty plik tekstowy o nazwie program.py
