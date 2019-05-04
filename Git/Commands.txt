@@ -9,4 +9,6 @@ git push
 git rm [sciezka]
 git rm -r [sciezka]
 
+git diff [hash commita]^ [hash commita] - roznice w commicie o identyfikatorze [hash commita]
+
 git pull --rebase - sciagasz commity z serwera do lokalnego repozytorium
